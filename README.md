@@ -4,22 +4,27 @@ Child Vaccination Management System , where parents can book vaccine appointment
 their children's. I used PHP for this website and MySQL for database querying
 
 Administrator Module
-•	All child details 
-o	View all child profile details 
+-
+
+
+-o	View all child profile details 
 •	Report of vaccination 
-o	Child, Vaccination 
+
 o	Administrator can view  the parent-child report
+
 •	List of vaccine 
-o	available vaccines
-o	Administrator can view the availability of the vaccination 
+
 •	Add vaccine
 o	Administrator can add vaccines if its is available or in stock
+
 •	Request from parents 
-o	Approve or Reject
+
 o	Once the request for appointment from parent side, it will be approved or rejected from the administrator
+
 •	Delete child
+
 o	Admin can delete child details 
-•	List of parents
+
 o	Admin can view  the parent details 
 •	Booking Details
 o	Admin can view the booking details from parent side for booking vaccination
@@ -30,17 +35,17 @@ o	Administrator will receive the appointment once it’s booked from parent side
 •	Allocate vaccine or not
 o	 Appointment  from parent side, it will be approved or rejected from the administrator
 
-Parent Module
-•	Register & Login 
+Parent Module-
+-•	Register & Login 
 o	Can register and login into the app using credentials like firstname, lastname, email, address etc.
 •	Add  child details
-o	maintain the child details
-•	Update child details 
+
+
 o	Can update the child details and can book for vaccination
-•	Status of vaccine
+•
 o	Notified the status of allocation of vaccine through colored table rows
 •	Vaccination Dates
 o	Can get notified through email of their respective accounts about appointment of 
 Vaccinations by the administrator
-•	Book vaccine 
+•	
 o	Can  book schedule for the vaccine for their children 
