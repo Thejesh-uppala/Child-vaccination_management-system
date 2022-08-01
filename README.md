@@ -35,7 +35,9 @@ o	Administrator will receive the appointment once it’s booked from parent side
 •	Allocate vaccine or not
 o	 Appointment  from parent side, it will be approved or rejected from the administrator
 
-Parent Module-
+Parent Module
+-
+
 -•	Register & Login 
 o	Can register and login into the app using credentials like firstname, lastname, email, address etc.
 •	Add  child details
